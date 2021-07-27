@@ -18,6 +18,10 @@ app.use("/image", express.static(path.resolve(__dirname, "image")))
 app.use(express.static(path.resolve(__dirname, "client", "build")));
 
 app.use(router);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9a210368a31ebc16a8fd67aa2cef34f9e97b24e8
 app.get('*', (req, res) => {
   res.send(path.resolve(__dirname, "client", "build", "index.html"))
 })
