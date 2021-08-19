@@ -2,6 +2,8 @@
 
 <p> Это приложение объединяет волонтеров и нуждающихся в помощи  людей</p>
 
+![](https://github.com/adam-azhigov/Dobro/blob/main/%D0%B3%D0%B8%D1%84%D0%A1%D0%B0%D0%B9%D1%82%D0%B0.gif)
+
 ### - Командный 2х недельный проект.
 
 > [Деплой на heroku](https://mern-dobro.herokuapp.com)
