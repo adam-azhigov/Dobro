@@ -6,7 +6,7 @@
 
 > [Код](https://github.com/abuingush/Dobro)
 
-> [Домонстрация](https://mern-dobro.herokuapp.com)
+> [Домонстрация][heroku](https://mern-dobro.herokuapp.com)
 
 В мои задачи входило:
 - Регистрация;
