@@ -6,7 +6,7 @@
 
 ### - Командный 2х недельный проект.
 
-> [Деплой на heroku](https://mern-dobro.herokuapp.com)
+> [посмотреть](https://mern-dobro.herokuapp.com)
 
 В мои задачи входило:
 - Вывод всех постов;
